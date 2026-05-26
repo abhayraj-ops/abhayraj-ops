@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=600&center=true&vCenter=true&width=600&height=70&lines=Hey+%F0%9F%91%8B%2C+I'm+Abhay;Intern+Trainee+%40+Avalon+Information+Systems;OpenEMIS+%7C+CakePHP+%7C+Education+Data;Agentic+Wizard+%7C+FOSS+%7C+AI+Workflows" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=600&center=true&vCenter=true&width=700&height=70&lines=Hey+%F0%9F%91%8B%2C+I'm+Abhay;Intern+Trainee+%40+Avalon+Info+Systems;OpenEMIS+%7C+CakePHP+%7C+Education+Data;Agentic+Wizard+%7C+FOSS+%7C+AI+Workflows" alt="Typing Animation" />
 </div>
 
 **Intern Trainee** at [Avalon Information Systems](https://www.avaloninfosys.com/), working on **[OpenEMIS](https://www.openemis.org/)** — the UNESCO-endorsed open-source Education Management Information System that helps governments manage education data at school, district, and national levels.
