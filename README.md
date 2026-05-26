@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Abhay;EMIS+Engineer+%40+Avalon+Information+Systems;OpenEMIS+%7C+CakePHP+%7C+Education+Data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Abhay;Intern+Trainee+%40+Avalon+Information+Systems;OpenEMIS+%7C+CakePHP+%7C+Education+Data" alt="Typing SVG" />
 
 </div>
 
 ---
 
-**EMIS Engineer** at [Avalon Information Systems](https://www.avaloninfosys.com/), building and maintaining **[OpenEMIS](https://www.openemis.org/)** — the UNESCO-endorsed open-source Education Management Information System that helps governments manage education data at school, district, and national levels.
+**Intern Trainee** at [Avalon Information Systems](https://www.avaloninfosys.com/), working on **[OpenEMIS](https://www.openemis.org/)** — the UNESCO-endorsed open-source Education Management Information System that helps governments manage education data at school, district, and national levels.
 
 ---
 
