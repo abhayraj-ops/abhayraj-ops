@@ -14,13 +14,23 @@
 
 ---
 
+### About Me
+
+I'm an **Agentic Wizard** — I build systems that let AI agents write code alongside me. My daily workflow is fully agentic: Claude Code, Codex CLI, Gemini CLI, Aider, and a rotating cast of AI tools, each handling what it does best. I built [**Nexus Terminal**](https://github.com/abhay-byte/nexus) — a multi-agent workspace where multiple AI agents collaborate in parallel. I also work extensively with **MCP servers** and AI IDEs like Cursor and Windsurf.
+
+One of my core tools is **[opencode](https://opencode.ai)** — an interactive CLI for AI-assisted software engineering tasks that I use daily for development.
+
+Everything I build is open source — all code, all assets, no paywalls, no gatekeeping. Just FOSS, built in the open.
+
+---
+
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:** PHP, CakePHP, JavaScript, TypeScript, React
+**Languages & Frameworks:** PHP, CakePHP, Laravel, JavaScript, TypeScript, React, SCSS
 
 **Database & DevOps:** MySQL, Docker, Git, Linux, GitHub Actions
 
-**Tools:** Postman, Composer, NPM
+**Tools:** Xdebug, Postman, Composer, NPM, opencode
 
 ---
 
