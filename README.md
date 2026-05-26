@@ -51,8 +51,8 @@ Everything I build is open source — all code, all assets, no paywalls, no gate
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayraj-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj-ops&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=abhayraj-ops&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayraj-ops&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
