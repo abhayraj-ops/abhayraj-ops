@@ -1,16 +1,20 @@
-## Hey 👋, I'm Abhay
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=600&center=true&vCenter=true&width=600&height=70&lines=Hey+%F0%9F%91%8B%2C+I'm+Abhay;Intern+Trainee+%40+Avalon+Information+Systems;OpenEMIS+%7C+CakePHP+%7C+Education+Data;Agentic+Wizard+%7C+FOSS+%7C+AI+Workflows" alt="Typing Animation" />
+</div>
 
-**Intern Trainee** at [Avalon Information Systems](https://www.avaloninfosys.com/), working on [OpenEMIS](https://www.openemis.org/) — the UNESCO-endorsed open-source Education Management Information System that helps governments manage education data at school, district, and national levels.
+**Intern Trainee** at [Avalon Information Systems](https://www.avaloninfosys.com/), working on **[OpenEMIS](https://www.openemis.org/)** — the UNESCO-endorsed open-source Education Management Information System that helps governments manage education data at school, district, and national levels.
 
 ---
 
 ### 🔗 Connect
 
-- [Avalon Infosys](https://www.avaloninfosys.com/)
-- [OpenEMIS](https://www.openemis.org/)
-- [OpenEMIS Core](https://github.com/OpenEMIS/core)
-- [UNESCO Knowledge Hub](https://www.unesco.org/sdg4education2030/en/knowledge-hub/openemis)
-- [Knowledge Base](https://abhay-byte.github.io/abhay-kb/)
+<p align="left">
+  <a href="https://www.avaloninfosys.com/"><img src="https://img.shields.io/badge/Avalon_Infosys-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.openemis.org/"><img src="https://img.shields.io/badge/OpenEMIS-0073b7?style=for-the-badge&logo=open-source-initiative&logoColor=white" /></a>
+  <a href="https://github.com/OpenEMIS/core"><img src="https://img.shields.io/badge/OpenEMIS_Core-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.unesco.org/sdg4education2030/en/knowledge-hub/openemis"><img src="https://img.shields.io/badge/UNESCO-003C71?style=for-the-badge&logo=unesco&logoColor=white" /></a>
+  <a href="https://abhay-byte.github.io/abhay-kb/"><img src="https://img.shields.io/badge/Knowledge_Base-fabd2f?style=for-the-badge&logo=gitbook&logoColor=black" /></a>
+</p>
 
 ---
 
@@ -26,11 +30,30 @@ Everything I build is open source — all code, all assets, no paywalls, no gate
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:** PHP, CakePHP, Laravel, JavaScript, TypeScript, React, SCSS
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Xdebug-FF6C37?style=flat-square&logo=xdebug&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencode-6C5CE7?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
-**Database & DevOps:** MySQL, Docker, Git, Linux, GitHub Actions
+---
 
-**Tools:** Xdebug, Postman, Composer, NPM, opencode
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayraj-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj-ops&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
